@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xFCB89675438dD88D71cf4E517071A205fc823a6a",
+  "SCAN_LINK": "https://polygonscan.com/token/0xFCB89675438dD88D71cf4E517071A205fc823a6a",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "EncryptBox",
+  "SYMBOL": "ENB",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/encryptbox",
+  "SHOW_BACKGROUND": true
+}
